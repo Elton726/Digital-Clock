@@ -138,12 +138,11 @@ Push to the branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
 👥 Developers
-Developer 1
-
-Developer 2
-
-Developer 3
-
+1.Elton Chirambo
+2.Richard MUnthali
+3.Misheck Champopa
+4.Matthias Mphande
+5.Praise Mwamlima
 Bachelor of Science in Information and Communication Technology
 
 📄 License
